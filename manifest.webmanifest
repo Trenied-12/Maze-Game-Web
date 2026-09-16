@@ -1,0 +1,19 @@
+{
+  "name": "Maze Game - Raetsel fuer zwei",
+  "short_name": "Maze Game",
+  "description": "Kooperatives Labyrinth-Raetselspiel fuer zwei Spieler",
+  "start_url": ".",
+  "scope": ".",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#12150f",
+  "theme_color": "#12150f",
+  "icons": [
+    {
+      "src": "assets/players/dino-down.png",
+      "sizes": "480x480",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
