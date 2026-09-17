@@ -11,7 +11,7 @@
  * Firebase-Anfragen fasst der Service Worker nicht an - die brauchen Verbindung.
  */
 
-const VERSION = "labyrinth-v2";
+const VERSION = "labyrinth-v3";
 
 self.addEventListener("install", (event) => {
   self.skipWaiting();
